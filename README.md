@@ -13,22 +13,18 @@ O objetivo principal do projeto foi dar vida ao conceito de um vinho frutal chil
 🚀 Site: [fruttino-andino-rho.vercel.app](https://fruttino-andino-rho.vercel.app/)
 
 🛠️ Estrutura do Projeto
-├── index.html
+
+​```
+index.html
 ├── css/
-
 │   └── style.css
-
 ├── js/
-
 │   └── script.js
-
 └── images/
-    
     ├── (fotos principais do site)
-    
     └── sabores/
-        
         └── (fotos dos 4 sabores)
+​```
         
 ✨ Funcionalidades
 Layout responsivo (desktop e mobile)
