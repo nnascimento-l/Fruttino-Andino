@@ -10,7 +10,7 @@ O objetivo principal do projeto foi dar vida ao conceito de um vinho frutal chil
 
 🔗 Link do Projeto
 
-🚀 ## Site: [fruttino-andino-rho.vercel.app](https://fruttino-andino-rho.vercel.app/)
+🚀 Site: [fruttino-andino-rho.vercel.app](https://fruttino-andino-rho.vercel.app/)
 
 🛠️ Estrutura do Projeto
 ├── index.html
