@@ -15,12 +15,19 @@ O objetivo principal do projeto foi dar vida ao conceito de um vinho frutal chil
 🛠️ Estrutura do Projeto
 ├── index.html
 ├── css/
+
 │   └── style.css
+
 ├── js/
+
 │   └── script.js
+
 └── images/
+    
     ├── (fotos principais do site)
+    
     └── sabores/
+        
         └── (fotos dos 4 sabores)
         
 ✨ Funcionalidades
