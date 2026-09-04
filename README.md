@@ -8,36 +8,32 @@ Website interativo e responsivo desenvolvido como parte do projeto internacional
 
 O objetivo principal do projeto foi dar vida ao conceito de um vinho frutal chileno. Enquanto a equipe do Chile desenvolveu a identidade visual e a estratégia de marketing, a nossa missão no Brasil foi transformar esse conceito em uma aplicação web funcional, moderna e totalmente voltada para a experiência do usuário.
 
-🔗 Link do Projeto
+## 🔗 Link do Projeto
 
 🚀 Site: [fruttino-andino-rho.vercel.app](https://fruttino-andino-rho.vercel.app/)
 
-🛠️ Estrutura do Projeto
+## 🛠️ Estrutura do Projeto
 
-​```
-index.html
+      index.html
+       ├── css/
+       └── style.css
+       ├── js
+          └── script.js
+       ├── images/
+        ├── (fotos principais do site)
+          └── sabores/
+           └── (fotos dos 4 sabores)
 
-├── css/
 
-│   └── style.css
+## ✨ Funcionalidades
 
-├── js/
-
-│   └── script.js
-
-└── images/
-   
-    ├── (fotos principais do site)
-   
-    └── sabores/
-       
-        └── (fotos dos 4 sabores)
-​```
-        
-✨ Funcionalidades
 Layout responsivo (desktop e mobile)
+
 Menu hambúrguer para navegação mobile
+
 Carrinho de compras interativo (localStorage)
+
 Modal de verificação de idade
+
 Scroll spy no menu de navegação
 Animações de entrada ao rolar a página
